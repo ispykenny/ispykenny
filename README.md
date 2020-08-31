@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="https://kennykrosky.com/wp-content/uploads/2020/08/meandthegirls-2-e1598832089617.jpg" width="80%">
 
-<!--
-**ispykenny/ispykenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi I'm Kenny Krosky 👋
 
-Here are some ideas to get you started:
+I'm a father of two, married, and a front end developer / product designer. I'm located in Southern California and I can always be found with a cup of coffee in my hand. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I like
+
+- JavaScript
+- Front end development
+- Coffee
+- Woodworking
+- Baseball (Yankees)
