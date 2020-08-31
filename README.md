@@ -1,4 +1,4 @@
-<img src="https://kennykrosky.com/wp-content/uploads/2020/08/meandthegirls-2-e1598832089617.jpg" width="80%">
+<img src="https://kennykrosky.com/wp-content/uploads/2020/08/meandthegirls-2-e1598832089617.jpg" width="60%">
 
 ### Hi I'm Kenny Krosky 👋
 
