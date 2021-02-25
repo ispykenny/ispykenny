@@ -7,7 +7,9 @@ I'm a father of two, married, and a front end developer, working at Adobe. I'm l
 
 ### Things I like
 
+- Adobe XD
 - JavaScript
+- UX Design
 - Front end development
 - Coffee
 - Woodworking
